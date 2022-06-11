@@ -1,0 +1,46 @@
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.icons {
+  position: relative;
+  left: 950px;
+  font-size:100%;
+}
+
+#third {
+  overflow: auto;
+  white-space:nowrap;
+  padding: 5px 70px 5px 20px;
+  background: transparent;
+  height: 1%;
+  border-radius:1px;
+}
+
+.scroll {
+  display:inline-block;
+}
+
+.scroll img {
+  margin-right:22px;
+  height: 50%;
+  width: 50%;
+}
+
+
+#social {
+  width:100px;
+}
+
+
+
+.social img {
+  height: 40px;
+  width:40px;
+}
+
+.bg-cover {
+  opacity:0.5;
+}
+
